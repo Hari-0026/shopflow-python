@@ -1,12 +1,10 @@
-# main.py - the starting point of the Smart Store program.
-# It only shows the main menu and hands control to the other modules.
+# main.py - the starting point of the Smart Store program
 
-import customer   # customer.py -> customer_side()
-import admin      # admin.py    -> admin()
-
+import customer  
+import admin     
 
 def main_menu():
-    print("\n====== WELCOME TO SMART STORE SYSTEM ======")
+    print("\n====== WELCOME TO SHOPFLOW STORE SYSTEM ======")
     print("=========================================")
     print("1) I am a customer")
     print("2) I am an admin")
