@@ -102,10 +102,13 @@ Some improvements I would like to explore as I continue learning Python are:
 - Improve product search and filtering.
 - Add a graphical user interface in a future version.
 
-## 👨‍💻 About
+## 🔎 About
 
 **Smart Store** is a personal learning project developed to practice Python fundamentals through a practical application.
 
 I am continuing to improve my Python skills and will use this project as a foundation for learning more advanced concepts.
 
 *Built with Python 🐍*
+
+# 👨‍💻 Author 
+- Developed by Hari as a python learning journey
